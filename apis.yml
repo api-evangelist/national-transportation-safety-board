@@ -33,6 +33,11 @@ apis:
 common:
   - type: Website
     url: https://www.ntsb.gov/
+  - type: Integrations
+    url: https://www.ntsb.gov/integrations
+integrations:
+  - name: NTSB
+  - name: NTSB Seal
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
