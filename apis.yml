@@ -31,6 +31,8 @@ apis:
       recommendations for aviation, rail, highway, marine, and pipeline
       transportation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ntsb
   - type: Website
     url: https://www.ntsb.gov/
   - type: Integrations
