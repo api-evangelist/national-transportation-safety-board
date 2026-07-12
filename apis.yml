@@ -31,12 +31,16 @@ apis:
       recommendations for aviation, rail, highway, marine, and pipeline
       transportation.
 common:
+  - type: DomainSecurity
+    url: security/national-transportation-safety-board-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ntsb
   - type: Website
     url: https://www.ntsb.gov/
   - type: Integrations
     url: https://www.ntsb.gov/integrations
+  - type: Blog
+    url: https://www.ntsb.gov/news/press-releases/Pages/default.aspx
 integrations:
   - name: NTSB
   - name: NTSB Seal
