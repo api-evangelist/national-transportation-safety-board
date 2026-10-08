@@ -59,6 +59,12 @@ apis:
       recommendations for aviation, rail, highway, marine, and pipeline
       transportation.
 common:
+  - type: Plans
+    url: plans/national-transportation-safety-board-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/national-transportation-safety-board-rate-limits.yml
+  - type: FinOps
+    url: finops/national-transportation-safety-board-finops.yml
   - type: DomainSecurity
     url: security/national-transportation-safety-board-domain-security.yml
   - type: LinkedIn
